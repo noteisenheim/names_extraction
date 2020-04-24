@@ -1,0 +1,1 @@
+['Donald Trump', 'Vladimir Putin', 'Alexander Lukashenko', 'Marcel Duchamp', 'Francis Picabia', 'Man Ray', 'Beatrice Wood', 'King Schultz', 'Fritz', 'Malachi Mulligan', 'Matthew Arnold', 'Anne-Katherine', 'Ollie', 'Mittens', 'Tom Kitten', 'Moppet', 'Rebeccah Puddle-duck', 'Jemima', 'Peter', 'McGregor', ' Alderman Ptolemy', 'Isaac Newton', 'Johnny Town-mouse', 'Timmy Willie']
