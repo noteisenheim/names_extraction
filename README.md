@@ -14,7 +14,7 @@ python -m spacy download en_core_web_sm
 
 #### Second way
 1. Build the docker image `docker build -t name-extraction .`
-2. Run the image `docker run name-extraction`
+2. Run the image `docker run -i -t name-extraction`
 
 ## Input examples
 Input examples are provided in the file [input.txt](../input.txt).
